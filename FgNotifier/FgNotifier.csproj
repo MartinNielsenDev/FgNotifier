@@ -62,7 +62,6 @@
       <Content Include=".gitignore" />
       <Content Include="Images\help1.jpg" />
       <Content Include="Images\help2.jpg" />
-      <Content Include="readme.md" />
     </ItemGroup>
     <ItemGroup>
       <None Include="packages.config" />

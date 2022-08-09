@@ -8,6 +8,6 @@
 5. Open up settings.json and change the values for 'MSec' and 'MemberId' with the values you noted down.
 6. Start FgNotifier.exe
 
-![Help image 1](Images/help1.jpg)
+![Help image 1](FgNotifier/Images/help1.jpg)
 
-![Help image 1](Images/help2.jpg)
+![Help image 1](FgNotifier/Images/help2.jpg)
